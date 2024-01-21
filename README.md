@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+biapulr;Welcome+to+my+GitHub+:D;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+bipaulr;Welcome+to+my+GitHub+:D;)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @bipaulr
-- 👀 I’m interested in mostly Python but i can handle web dev
+
+- 👀 I’m interested in mostly Python but..... i can handle web dev (i think)
 - 🌱 I’m currently learning web dev
 - 📫 You can reach me through Email at paulranjithc@gmail.com 
 - 😄 Pronouns: him/he (cause im quirky)
