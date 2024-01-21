@@ -6,7 +6,6 @@
 - 📫 You can reach me through Email at paulranjithc@gmail.com 
 - 😄 Pronouns: him/he (cause im quirky)
 - ⚡ Fun fact: i need to master css (help)
-- 
 
 <!---
 bipaulr/bipaulr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
